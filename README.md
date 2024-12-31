@@ -6,11 +6,10 @@ For the complete project requirements, please refer to the "Task Overview" pdf f
 
 Below is the README file submitted with my course project, which describes the code changes for parts C-J from the project requirements.
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <strong>
 Student Name: JESSICA NICHOLS<br>
 Student ID: 010500487<br>
