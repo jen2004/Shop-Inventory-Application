@@ -21,7 +21,7 @@ Below is the README file submitted with my course project, which describes the c
 #
 
 <strong>
-Student Name: JESSICA NICHOLS<br>
+Student Name: JESSICA SHORT<br>
 Student ID: 010500487<br>
 WESTERN GOVERNOR'S UNIVERSITY<br>
 Course: D287 – JAVA FRAMEWORKS<br>
