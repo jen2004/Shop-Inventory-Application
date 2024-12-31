@@ -1,4 +1,4 @@
-# Shop Inventory Application - Java Frameworks D287
+# Shop Inventory Application
 
 I completed this project during my 4th semester at WGU as a part of the class, Java Frameworks D287. 
 
