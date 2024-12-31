@@ -1,3 +1,12 @@
+# Java Frameworks D287
+
+I completed this project during my 4th semester at WGU as a part of the class, Java Frameworks D287. 
+
+For the complete project requirements, please refer to the "Task Overview" pdf file.  Additional project details can be found in these files: Shop Inventory Management User Guide.pdf, UML diagram.png, and Products and Parts.jpg.  The file “Products and Parts” was created by me for my project idea while the other files were provided by the course instructor.
+
+Below is the README file submitted with my course project, which describes the code changes for parts C-J from the project requirements.
+
+
 <strong>
 Student Name: JESSICA NICHOLS<br>
 Student ID: 010500487<br>
