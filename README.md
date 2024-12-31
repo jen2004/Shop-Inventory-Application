@@ -2,13 +2,13 @@
 
 I developed a web-based inventory application for Green Country Dog Houses using Spring Boot and IntelliJ IDEA.  I started with a base code template provided by the instructor and customized the template for my company.  I added these key modifications:
 
-•	<strong>User Interface Customization</strong>- HTML interface enhancements with shop-specific elements (products and parts).
-•	An "About" page with navigation to and from the main screen.
-•	Added a sample inventory (five products and 12 parts) with logic to prevent overwriting existing data.
-•	A "Buy Now" button to decrement product inventory, with success and failure feedback messages.
-•	<strong>Inventory Limits</strong> - Extended the “Part” entity to include maximum and minimum inventory fields.  Modified forms and tables to manage and display these limits.  Enforced validation for inventory constraints during part addition and updates.
-•	<strong>Validation Enhancements</strong> - Added error messages to handle low or high inventory conditions for parts and associated products.
-•	<strong>Unit Testing</strong> - Wrote and completed unit tests for maximum and minimum inventory constraints.
+•	<strong>User Interface Customization</strong>- HTML interface enhancements with shop-specific elements (products and parts).<br>
+•	An "About" page with navigation to and from the main screen.<br>
+•	Added a sample inventory (five products and 12 parts) with logic to prevent overwriting existing data.<br>
+•	A "Buy Now" button to decrement product inventory, with success and failure feedback messages.<br>
+•	<strong>Inventory Limits</strong> - Extended the “Part” entity to include maximum and minimum inventory fields.  Modified forms and tables to manage and display these limits.  Enforced validation for inventory constraints during part addition and updates.<br>
+•	<strong>Validation Enhancements</strong> - Added error messages to handle low or high inventory conditions for parts and associated products.<br>
+•	<strong>Unit Testing</strong> - Wrote and completed unit tests for maximum and minimum inventory constraints.<br>
 
 I completed this project during my 4th semester at WGU as a part of the class, Java Frameworks D287. 
 
