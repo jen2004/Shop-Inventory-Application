@@ -16,7 +16,7 @@ For the complete project requirements, please refer to the "Task Overview" pdf f
 
 Below is the README file submitted with my course project, which describes the code changes for parts C-J from the project requirements.
 
-To run this application, open the code files in IntelliJ IDEA 2024.2.0.1.  Run the applciation in IntelliJ, then you can access the application at http://localhost:8080/.
+To use this application, open the code files in IntelliJ IDEA 2024.2.0.1.  Run the applciation in IntelliJ, then you can access the application at http://localhost:8080/.
 
 #
 
