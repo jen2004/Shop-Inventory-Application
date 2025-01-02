@@ -1,6 +1,6 @@
 # Shop Inventory Application
 
-I developed a web-based inventory application for Green Country Dog Houses using Spring Boot and IntelliJ IDEA.  I started with a base code template provided by the instructor and customized the template for my company.  I added these key modifications:
+I developed a web-based inventory application for the fictional company Green Country Dog Houses using Spring Boot and IntelliJ IDEA.  I started with a base code template provided by the instructor and customized the template for my company.  I added these key modifications:
 
 •	<strong>User Interface Customization</strong>- HTML interface enhancements with shop-specific elements (products and parts).<br>
 •	An <strong>"About" page</strong> with navigation to and from the main screen.<br>
