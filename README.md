@@ -14,9 +14,23 @@ I completed this project during my 4th semester at WGU as a part of the class, J
 
 For the complete project requirements, please refer to the "Task Overview" pdf file.  Additional project details can be found in these files: Shop Inventory Management User Guide.pdf, UML diagram.png, and Products and Parts.jpg.  The file “Products and Parts” was created by me for my project idea while the other files were provided by the course instructor.
 
-Below is the README file submitted with my course project, which describes the code changes for parts C-J from the project requirements.
+At the very bottom of this page is the report that I submitted with my course project, which describes the code changes for parts C-J from the project requirements.
 
 To use this application, open the code files in IntelliJ IDEA 2024.2.0.1.  Run the applciation in IntelliJ, then you can access the application at http://localhost:8080/.
+
+Here are some images of the web-based inventory application:
+
+![1](https://github.com/user-attachments/assets/c7653d57-e974-4729-9eff-40f7067ca8fb)
+
+![2](https://github.com/user-attachments/assets/84e5842d-29c8-4832-9fe0-a979af08705d)
+
+![3](https://github.com/user-attachments/assets/10089ed1-f894-4845-8e7d-b589f6bce9f1)
+
+![4](https://github.com/user-attachments/assets/8de53c78-7f50-4887-a6a7-0bf81dab7365)
+
+![7](https://github.com/user-attachments/assets/71677297-4a81-4af1-8205-0fccf3c3c583)
+
+![8](https://github.com/user-attachments/assets/d869115e-6008-42ad-86c1-3809e2b0df83)
 
 #
 
