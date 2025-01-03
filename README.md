@@ -32,7 +32,7 @@ Here are some images of the web-based inventory application:
 
 ![8](https://github.com/user-attachments/assets/d869115e-6008-42ad-86c1-3809e2b0df83)
 
-Here is the report that I submitted with my course project, which describes the code changes for parts C-J from the project requirements.
+Here is the report that I submitted with my course project, which describes the code changes for parts C-J from the project requirements:
 #
 
 <strong>
