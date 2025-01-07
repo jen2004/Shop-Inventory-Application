@@ -1,6 +1,6 @@
 # Shop Inventory Application
 
-![Dog House](https://github.com/user-attachments/assets/be2dbf6d-7659-4ffe-9f72-12e05f6ee4c1)
+<img src="https://github.com/user-attachments/assets/be2dbf6d-7659-4ffe-9f72-12e05f6ee4c1" width="500" />
 
 <strong>Image Source: Euroco</strong>
 
