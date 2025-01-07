@@ -2,6 +2,8 @@
 
 ![Dog House](https://github.com/user-attachments/assets/be2dbf6d-7659-4ffe-9f72-12e05f6ee4c1)
 
+<strong>Image Source: Euroco</strong>
+
 
 I developed a web-based inventory application for the fictional company Green Country Dog Houses using Spring Boot and IntelliJ IDEA.  I started with a base code template provided by the instructor and customized the template for my company.  I added these key modifications:
 
