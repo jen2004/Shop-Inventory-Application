@@ -23,6 +23,14 @@ At the very bottom of this page is the report that I submitted with my course pr
 
 To use this application, open the code files in IntelliJ IDEA 2024.2.0.1.  Run the applciation in IntelliJ, then you can access the application at http://localhost:8080/.
 
+Here are some GIFs of the application in use:
+
+![Shop Inventory Demo 1](./1.gif)
+
+![Shop Inventory Demo 2](./2.gif)
+
+![Shop Inventory Demo 3](./3.gif)
+
 Here are some images of the web-based inventory application:
 
 ![1](https://github.com/user-attachments/assets/c7653d57-e974-4729-9eff-40f7067ca8fb)
